@@ -1,0 +1,1 @@
+{"type_of": "frames_descriptor", "address": {"camera_id": 1, "monotonic_id": 1, "Preproccess_id": 1, "Preprocessor_id": 1, "frames_descriptor_id": 1, "datetime": "2022-05-09 14:04:08.623382"}, "frame_properties": {"fps": 30, "height": 240, "width": 320, "channel": 3, "nb_frames": 100}, "data": ["Hello", "World", "!!!"]}
